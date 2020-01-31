@@ -1,2 +1,2 @@
 # userManagement
-Simple User Management Angular UI
+Simple User Management Angular UI for Lecture Purpose
